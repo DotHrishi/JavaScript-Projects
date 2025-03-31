@@ -1,0 +1,18 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "just learning js",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hrishikesh",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.5.0",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheros": "^1.0.0"
+  }
+}
